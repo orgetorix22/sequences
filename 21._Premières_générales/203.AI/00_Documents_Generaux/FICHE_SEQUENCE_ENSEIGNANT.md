@@ -230,6 +230,21 @@
 - Part C : Vocabulaire en contexte (4 pts)
 - Qualité de la langue (2 pts)
 
+#### 📌 Note pédagogique importante
+**Deux articles complémentaires disponibles :**
+
+1. **`AI_S05_Teacher_Bans_AI_Article_and_questions.odt`** (dans 01_Seances/)
+   - Position : **CONTRE** l'utilisation de l'IA (Chanea Bond interdit l'IA)
+   - Utilisé comme évaluation notée CE en Séance 5
+   - Correction disponible : `03_Corrections/CORRECTION_AI_S05_CE_Teacher_Bans_AI.md`
+
+2. **`AI_S08_Eval_CE_article_et_questions.odt`** (dans 02_Evaluations/)
+   - Position : **POUR** l'utilisation de l'IA (Jeff Simon encourage l'IA avec règles)
+   - Utilisé comme document complémentaire pour le débat (Séances 6-7)
+   - Correction disponible : `03_Corrections/CORRECTION_AI_S08_CE_Math_Teacher_Says_Yes.md`
+
+**Intérêt pédagogique :** Ces deux articles présentent des perspectives opposées, ce qui enrichit le débat et permet aux élèves de voir la complexité du sujet. L'un bannit l'IA pour protéger les compétences fondamentales, l'autre l'encourage avec des protocoles stricts pour préparer au futur. Les élèves doivent comprendre les deux positions pour développer leur propre opinion nuancée.
+
 ---
 
 ### **SÉANCE 6** (55 min) - Préparation du débat
@@ -299,7 +314,7 @@ Grille d'observation :
 - Réviser la structure d'un texte d'opinion
 
 #### Support
-- Document : `AI_S07_Consignes.odt`
+- Document : `AI_S08_Consignes.odt`
 - Grille d'évaluation distribuée
 
 #### Déroulement
@@ -394,24 +409,30 @@ Grille d'observation :
 
 ## 🎨 DIFFÉRENCIATION PÉDAGOGIQUE
 
-### Pour les élèves en difficulté
+**💡 Ressources disponibles dans le dossier `05_Differenciation/`**
+
+### Pour les élèves en difficulté (dossier `01_Eleves_en_Difficulte/`)
+- **Glossaire pré-rempli** : `GLOSSAIRE_PRECOMPLET.md` - Vocabulaire avec traductions et exemples
+- **Tâche finale adaptée** : `AI_S09_Tache_Finale_90mots_GUIDE.md` - Version 90-100 mots avec plan guidé
+- **Guides de compréhension** : Questions guidées avec QCM pour les articles
 - Fournir le vocabulaire clé avant chaque activité
 - Proposer des questions de compréhension guidées avec choix multiples
 - Autoriser l'utilisation du dictionnaire pendant les évaluations
-- Réduire légèrement le nombre de mots pour la tâche finale (90-100 mots)
 - Tutorat par pairs pendant le débat
 
-### Pour les élèves avancés
+### Pour les élèves avancés (dossier `02_Eleves_Avances/`)
+- **README** : `README_Enrichissement.md` - Guide complet des ressources d'enrichissement
+- **Tâche finale enrichie** : Version 150 mots avec exigences accrues
+- **Projets d'extension** : Recherche autonome, présentation orale, analyse comparative
 - Questions de réflexion plus complexes (analyse critique, comparaisons)
-- Recherche autonome sur un aspect de l'IA
 - Rôle de "language helper" pendant les activités de groupe
-- Augmenter l'exigence de la tâche finale (structures complexes, vocabulaire plus riche)
 - Présentation orale individuelle en prolongement
 
-### Adaptations possibles
-- **Élèves dys** : Documents avec police adaptée (OpenDyslexic), lecture audio des textes
-- **Élèves allophones** : Glossaire bilingue, plus de temps sur les évaluations
-- **Élèves à besoins éducatifs particuliers** : Voir PAP/PPS
+### Adaptations spécifiques (dossier `03_Adaptations_Specifiques/`)
+- **Glossaire bilingue** : `GLOSSAIRE_BILINGUE_Allophones.md` - Pour élèves allophones (anglais-français complet)
+- **Élèves dys** : Documents avec police adaptée (OpenDyslexic), lecture audio des textes (à créer si nécessaire)
+- **Élèves allophones** : Glossaire bilingue détaillé, plus de temps sur les évaluations
+- **Élèves à besoins éducatifs particuliers** : Adaptations selon PAP/PPS
 
 ---
 
@@ -424,7 +445,12 @@ Grille d'observation :
 ### Documents enseignant
 - Cette fiche séquence
 - Progression détaillée : `AI_S00_Progression_sequence.odt`
-- Corrections (à créer si nécessaire)
+- **Corrections (dossier `03_Corrections/`)** :
+  - `CORRECTION_AI_S04_Eval_Voc.md` (test vocabulaire /15)
+  - `CORRECTION_AI_S05_CE_Teacher_Bans_AI.md` (évaluation CE S05 /20)
+  - `CORRECTION_AI_S08_CE_Math_Teacher_Says_Yes.md` (document débat /20)
+  - `MODELE_REPONSE_S09_Tache_Finale_EE.md` (tâche finale avec exemples /20)
+  - `GRILLE_EVALUATION_DEBAT_S07.md` (grille observation débat /20)
 
 ### Ressources numériques
 - Vidéo deepfake Morgan Freeman : [à compléter avec le lien YouTube/Vimeo]
@@ -480,23 +506,57 @@ Grille d'observation :
 
 ## 📎 ANNEXES
 
-### Fichiers de la séquence
+### Structure complète de la séquence
 ```
 203.AI/
-├── AI_S00_LIVRET_Sequence.pdf (Livret élève complet)
-├── AI_S00_Progression_sequence.odt (Planning détaillé)
-├── AI_S01_What_is_AI_text_and_WS.pdf
-├── AI_S02_CE_Types_of_AI.pdf
-├── AI_S02_CE_Types_of_AI_Worksheet.pdf
-├── AI_S03_Deepfake_Morgan_Freeman.pdf
-├── AI_S03_I am not Morgan Freeman - Crossword Labs.pdf
-├── AI_S04_Coca_cola_CE_article_and_questions.odt
-├── AI_S04_Eval_Voc.odt
-├── AI_S05_Teacher_Bans_AI_Article_and_questions.odt (EVAL CE /20)
-├── AI_S06_Debat_Preparation.odt
-├── AI_S07_Consignes.odt (Tâche finale)
-├── AI_S08_Eval_CE_article_et_questions.odt
-├── Vocab_list_AI.odt
+├── 00_Documents_Generaux/
+│   ├── AI_S00_LIVRET_Sequence.pdf (Livret élève complet)
+│   ├── AI_S00_Progression_sequence.odt (Planning détaillé)
+│   ├── AI_S00_image_illustration-Photoroom.png
+│   └── FICHE_SEQUENCE_ENSEIGNANT.md (Ce document)
+│
+├── 01_Seances/
+│   ├── AI_S01_What_is_AI_text_and_WS.pdf
+│   ├── AI_S02_CE_Types_of_AI.pdf
+│   ├── AI_S02_CE_Types_of_AI_Worksheet.pdf
+│   ├── AI_S03_Deepfake_Morgan_Freeman.pdf
+│   ├── AI_S03_I am not Morgan Freeman - Crossword Labs.pdf
+│   ├── AI_S03_Image_Morgan_Freeman.png
+│   ├── AI_S04_Coca_cola_CE_article_and_questions.odt
+│   ├── AI_S05_Teacher_Bans_AI_Article_and_questions.odt ⭐ (EVAL CE /20)
+│   ├── AI_S06_Debat_Preparation.odt
+│   └── AI_S08_Consignes.odt (Préparation tâche finale)
+│
+├── 02_Evaluations/
+│   ├── AI_S04_Eval_Voc.odt (Test vocabulaire /15)
+│   ├── AI_S08_Eval_CE_article_et_questions.odt ⭐ (Article complémentaire débat)
+│   └── Vocabulary_Test_-_AI_P04.pdf
+│
+├── 03_Corrections/ ✅ COMPLET
+│   ├── CORRECTION_AI_S04_Eval_Voc.md
+│   ├── CORRECTION_AI_S05_CE_Teacher_Bans_AI.md
+│   ├── CORRECTION_AI_S08_CE_Math_Teacher_Says_Yes.md
+│   ├── MODELE_REPONSE_S09_Tache_Finale_EE.md
+│   └── GRILLE_EVALUATION_DEBAT_S07.md
+│
+├── 04_Ressources_Complementaires/
+│   ├── Vocab_list_AI.odt
+│   └── crossword_deepfake.png
+│
+├── 05_Differenciation/ ✅ COMPLET
+│   ├── 01_Eleves_en_Difficulte/
+│   │   ├── README.md
+│   │   ├── GLOSSAIRE_PRECOMPLET.md
+│   │   └── AI_S09_Tache_Finale_90mots_GUIDE.md
+│   ├── 02_Eleves_Avances/
+│   │   └── README_Enrichissement.md
+│   └── 03_Adaptations_Specifiques/
+│       └── GLOSSAIRE_BILINGUE_Allophones.md
+│
+├── 06_Sources/
+│   └── Sources_LaTeX/ (fichiers de compilation)
+│
+└── 07_Archives/ (ancienne version de la séquence)
 ├── Vocabulary_Test_-_AI_P04.pdf
 └── Sources_LaTeX/ (fichiers source des évaluations)
 ```
