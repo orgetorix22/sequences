@@ -1,0 +1,33 @@
+%%% composition QCM
+
+% texte de présentation
+
+%%% Fin de l'entête
+%%%%%%%%%%%%%%%%%%%%%%%
+
+%% Composition des QCM
+%%% On insère les groupes de questions
+
+\begin{center}
+\section{\fbox{\parbox{0.9\textwidth}{%
+\textbf{Instructions:} Word bank: 1-narrow AI | 2-general AI | 3-consciousness | 4-crucial | 5-prompt | 6-literacy | 7-foundational skills | 8-forbidden fruit | 9-ban | 10-artificial intelligence
+}}}
+\end{center}
+
+\vspace{0.5cm}
+\shufflegroup{ai-vocabulary-fillblanks}
+\insertgroup{ai-vocabulary-fillblanks}
+\newpage
+\section{Vocabulary matching exercise}
+\restituegroupe{ai-vocabulary-matching}
+
+\section{Traduire en français}
+
+\shufflegroup{ai-vocabulary-translation}
+\insertgroup{ai-vocabulary-translation}
+
+% Saut d'une page si le sujet comporte un nombre impair de pages.
+% Ainsi il est possible d'imprimer les sujets en recto-verso.
+\AMCcleardoublepage
+
+%%% Fin de la création des questionnaires

@@ -1,0 +1,340 @@
+CATEGORY: ai-vocabulary-matching
+ID: match-q1
+TYPE: QL
+QUESTION: Match "available" with its definition
+LINES: 1
+DOTS: false
+SCORING: Correct answer|0.5
+SCORING: Incorrect answer|0
+
+CATEGORY: ai-vocabulary-matching
+ID: match-q2
+TYPE: QL
+QUESTION: Match "smart" with its definition
+LINES: 1
+DOTS: false
+SCORING: Correct answer|0.5
+SCORING: Incorrect answer|0
+
+CATEGORY: ai-vocabulary-matching
+ID: match-q3
+TYPE: QL
+QUESTION: Match "chatbot" with its definition
+LINES: 1
+DOTS: false
+SCORING: Correct answer|0.5
+SCORING: Incorrect answer|0
+
+CATEGORY: ai-vocabulary-matching
+ID: match-q4
+TYPE: QL
+QUESTION: Match "task" with its definition
+LINES: 1
+DOTS: false
+SCORING: Correct answer|0.5
+SCORING: Incorrect answer|0
+
+CATEGORY: ai-vocabulary-matching
+ID: match-q5
+TYPE: QL
+QUESTION: Match "update" with its definition
+LINES: 1
+DOTS: false
+SCORING: Correct answer|0.5
+SCORING: Incorrect answer|0
+
+CATEGORY: ai-vocabulary-matching
+ID: match-q6
+TYPE: QL
+QUESTION: Match "skills" with its definition
+LINES: 1
+DOTS: false
+SCORING: Correct answer|0.5
+SCORING: Incorrect answer|0
+
+CATEGORY: ai-vocabulary-matching
+ID: match-q7
+TYPE: QL
+QUESTION: Match "carry out" with its definition
+LINES: 1
+DOTS: false
+SCORING: Correct answer|0.5
+SCORING: Incorrect answer|0
+
+CATEGORY: ai-vocabulary-matching
+ID: match-q8
+TYPE: QL
+QUESTION: Match "solve" with its definition
+LINES: 1
+DOTS: false
+SCORING: Correct answer|0.5
+SCORING: Incorrect answer|0
+
+CATEGORY: ai-vocabulary-matching
+ID: match-q9
+TYPE: QL
+QUESTION: Match "designed" with its definition
+LINES: 1
+DOTS: false
+SCORING: Correct answer|0.5
+SCORING: Incorrect answer|0
+
+CATEGORY: ai-vocabulary-matching
+ID: match-q10
+TYPE: QL
+QUESTION: Match "currently" with its definition
+LINES: 1
+DOTS: false
+SCORING: Correct answer|0.5
+SCORING: Incorrect answer|0
+
+CATEGORY: ai-vocabulary-fillblanks
+INSTRUCTION: Word bank: 1-narrow AI | 2-general AI | 3-consciousness | 4-crucial | 5-prompt | 6-literacy | 7-foundational skills | 8-forbidden fruit | 9-ban | 10-artificial intelligence
+ID: fill-q1
+TYPE: QCU
+ORDERED: true
+QUESTION: ChatGPT is an example of _________________.
+WRONG: 1
+WRONG: 2
+WRONG: 3
+WRONG: 4
+WRONG: 5
+WRONG: 6
+WRONG: 7
+WRONG: 8
+WRONG: 9
+CORRECT: 10
+
+CATEGORY: ai-vocabulary-fillblanks
+ID: fill-q2
+TYPE: QCU
+ORDERED: true
+QUESTION: _________________ is essential to voice assistants like Siri and Alexa.
+CORRECT: 1
+WRONG: 2
+WRONG: 3
+WRONG: 4
+WRONG: 5
+WRONG: 6
+WRONG: 7
+WRONG: 8
+WRONG: 9
+WRONG: 10
+
+CATEGORY: ai-vocabulary-fillblanks
+ID: fill-q3
+TYPE: QCU
+ORDERED: true
+QUESTION: _________________ would be able to think like a human.
+WRONG: 1
+CORRECT: 2
+WRONG: 3
+WRONG: 4
+WRONG: 5
+WRONG: 6
+WRONG: 7
+WRONG: 8
+WRONG: 9
+WRONG: 10
+
+CATEGORY: ai-vocabulary-fillblanks
+ID: fill-q4
+TYPE: QCU
+ORDERED: true
+QUESTION: Understanding AI _________________ is important for the future.
+WRONG: 1
+WRONG: 2
+WRONG: 3
+WRONG: 4
+WRONG: 5
+CORRECT: 6
+WRONG: 7
+WRONG: 8
+WRONG: 9
+WRONG: 10
+
+CATEGORY: ai-vocabulary-fillblanks
+ID: fill-q5
+TYPE: QCU
+ORDERED: true
+QUESTION: When you ask ChatGPT a question, you give it a _________________.
+WRONG: 1
+WRONG: 2
+WRONG: 3
+WRONG: 4
+CORRECT: 5
+WRONG: 6
+WRONG: 7
+WRONG: 8
+WRONG: 9
+WRONG: 10
+
+CATEGORY: ai-vocabulary-fillblanks
+ID: fill-q6
+TYPE: QCU
+ORDERED: true
+QUESTION: Some schools decided to _________________ AI tools.
+WRONG: 1
+WRONG: 2
+WRONG: 3
+WRONG: 4
+WRONG: 5
+WRONG: 6
+WRONG: 7
+WRONG: 8
+CORRECT: 9
+WRONG: 10
+
+CATEGORY: ai-vocabulary-fillblanks
+ID: fill-q7
+TYPE: QCU
+ORDERED: true
+QUESTION: Students need _________________ before using advanced technology.
+WRONG: 1
+WRONG: 2
+WRONG: 3
+WRONG: 4
+WRONG: 5
+WRONG: 6
+CORRECT: 7
+WRONG: 8
+WRONG: 9
+WRONG: 10
+
+CATEGORY: ai-vocabulary-fillblanks
+ID: fill-q8
+TYPE: QCU
+ORDERED: true
+QUESTION: As soon as something is banned, it becomes _________________.
+WRONG: 1
+WRONG: 2
+WRONG: 3
+WRONG: 4
+WRONG: 5
+WRONG: 6
+WRONG: 7
+CORRECT: 8
+WRONG: 9
+WRONG: 10
+
+CATEGORY: ai-vocabulary-fillblanks
+ID: fill-q9
+TYPE: QCU
+ORDERED: true
+QUESTION: Developing a system with its own _________________ is still far away.
+WRONG: 1
+WRONG: 2
+CORRECT: 3
+WRONG: 4
+WRONG: 5
+WRONG: 6
+WRONG: 7
+WRONG: 8
+WRONG: 9
+WRONG: 10
+
+CATEGORY: ai-vocabulary-fillblanks
+ID: fill-q10
+TYPE: QCU
+ORDERED: true
+QUESTION: It is _________________ that we learn how to use AI responsibly.
+WRONG: 1
+WRONG: 2
+WRONG: 3
+CORRECT: 4
+WRONG: 5
+WRONG: 6
+WRONG: 7
+WRONG: 8
+WRONG: 9
+WRONG: 10
+
+CATEGORY: ai-vocabulary-translation
+ID: trans-q1
+TYPE: QL
+QUESTION: Traduire en français : "available"
+LINES: 1
+DOTS: false
+SCORING: Traduction correcte|0.5
+SCORING: Traduction incorrecte|0
+
+CATEGORY: ai-vocabulary-translation
+ID: trans-q2
+TYPE: QL
+QUESTION: Traduire en français : "smart"
+LINES: 1
+DOTS: false
+SCORING: Traduction correcte|0.5
+SCORING: Traduction incorrecte|0
+
+CATEGORY: ai-vocabulary-translation
+ID: trans-q3
+TYPE: QL
+QUESTION: Traduire en français : "currently"
+LINES: 1
+DOTS: false
+SCORING: Traduction correcte|0.5
+SCORING: Traduction incorrecte|0
+
+CATEGORY: ai-vocabulary-translation
+ID: trans-q4
+TYPE: QL
+QUESTION: Traduire en français : "skills"
+LINES: 1
+DOTS: false
+SCORING: Traduction correcte|0.5
+SCORING: Traduction incorrecte|0
+
+CATEGORY: ai-vocabulary-translation
+ID: trans-q5
+TYPE: QL
+QUESTION: Traduire en français : "task"
+LINES: 1
+DOTS: false
+SCORING: Traduction correcte|0.5
+SCORING: Traduction incorrecte|0
+
+CATEGORY: ai-vocabulary-translation
+ID: trans-q6
+TYPE: QL
+QUESTION: Traduire en français : "to solve"
+LINES: 1
+DOTS: false
+SCORING: Traduction correcte|0.5
+SCORING: Traduction incorrecte|0
+
+CATEGORY: ai-vocabulary-translation
+ID: trans-q7
+TYPE: QL
+QUESTION: Traduire en français : "to carry out"
+LINES: 1
+DOTS: false
+SCORING: Traduction correcte|0.5
+SCORING: Traduction incorrecte|0
+
+CATEGORY: ai-vocabulary-translation
+ID: trans-q8
+TYPE: QL
+QUESTION: Traduire en français : "chatbot"
+LINES: 1
+DOTS: false
+SCORING: Traduction correcte|0.5
+SCORING: Traduction incorrecte|0
+
+CATEGORY: ai-vocabulary-translation
+ID: trans-q9
+TYPE: QL
+QUESTION: Traduire en français : "to design"
+LINES: 1
+DOTS: false
+SCORING: Traduction correcte|0.5
+SCORING: Traduction incorrecte|0
+
+CATEGORY: ai-vocabulary-translation
+ID: trans-q10
+TYPE: QL
+QUESTION: Traduire en français : "crucial"
+LINES: 1
+DOTS: false
+SCORING: Traduction correcte|0.5
+SCORING: Traduction incorrecte|0
